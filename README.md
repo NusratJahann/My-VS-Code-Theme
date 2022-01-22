@@ -1,6 +1,6 @@
 # **My VS code Theme**   
 <img src="vscode img.png">
-To set the theme go to vscode and press  <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd> and search for "**Preferences:Open Settings (JSON)**" then replace the workbench codes with this code:<br><br>
+To set the theme go to vscode and press  <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd> and search for "Preferences:Open Settings (JSON)" then replace the workbench codes with this code:<br><br>
 
 ```json
 {
